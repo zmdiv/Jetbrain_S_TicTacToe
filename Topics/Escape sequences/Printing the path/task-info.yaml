@@ -1,0 +1,19 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: path = 'C:\Users\Public\Desktop\Temporary\Newsletters'.lower()
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11137#comment
+status: Failed
+feedback:
+  message: |
+    Failed. Runtime error
+
+    Error:
+    Traceback (most recent call last):
+      File "jailed_code", line 3, in <module>
+        print(path)
+    NameError: name 'path' is not defined
+  time: Sun, 19 Sep 2021 16:33:33 UTC
+record: -1
